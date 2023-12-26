@@ -664,7 +664,7 @@ footer {
 
   .checkbox:checked + .form-agreement > .form-agreement-checkbox {
     background-color: #404BBF;
-    fill: #404BBF;
+    fill: #F4F4FD;
     border: none; 
   }
 
